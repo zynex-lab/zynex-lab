@@ -2,8 +2,26 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vireth-dev&layout=compact&theme=radical" alt="Top Languages">
+<div style="display: flex; justify-content: center; align-items: center; padding: 2rem;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Nyasami&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" 
+    alt="GitHub Languages" 
+    height="150"
+    style="border-radius: 12px; box-shadow: 0 0 20px rgba(0, 255, 170, 0.3); animation: fadeInUp 0.8s ease forwards; opacity: 0;"
+  />
 </div>
+
+<style>
+@keyframes fadeInUp {
+  from {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+</style>
 
 ###
