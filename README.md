@@ -3,7 +3,7 @@
 ###
 
 <div style="display: flex; justify-content: center; align-items: center; padding: 2rem;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyuncatlover&layout=compact&theme=github_dark&hide_border=true&cache_seconds=3600&v=1" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zynthrea&layout=compact&theme=github_dark&hide_border=true&cache_seconds=3600&v=1" />
 </div>
 
 ###
